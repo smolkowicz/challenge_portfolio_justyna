@@ -12,7 +12,7 @@ Moim głównym celem jest... zostanie testerem manualnym 😍, dlatego istotne j
 
 ### ***Subtask 4***
 
-*1. czym polega i do czgo służy aplikacja?*
+*1. Na czym polega i do czgo służy aplikacja?*
 
 Aplikacja Futbol Kolektyw Platforma Skautingowa jest przeznaczona dla skautów piłki nożnej, czyli dla osób wyspecjalizowanych w poszukiwaniu osób cechujących się wysokim poziomem zdolności w sporcie - w tym przypadku w piłce nożnej.  
 Aplikacja umożliwia przeglądanie informacji o zawodnikach np. ze względu na ich umiejętności, pozycję czy osiągnięcia i inne dane, a także służy do gromadzenia informacji o piłkarzach. 
