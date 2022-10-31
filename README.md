@@ -33,7 +33,7 @@ Aplikacja umożliwia przeglądanie informacji o zawodnikach np. ze względu na i
     - w sekcji szczegółowego raportu znajduje się punkt V "DANE STATYSTYCZNE". Dane te można pozyskać rozgrywając "wirtualny mecz", gdzie można odtworzyć informacje z akcji jakie piłkarz podjął na boisku podczas meczu, następnie dane te można przesłać jako raport do punktu nr V w raporcie szczegółowym. Ponadto informacje z "wirtualnego meczu" będą także wyświetlane w ekranie edycji meczu na samym dole ekranu pod nagłówkiem "Lista zdarzeń".
     
   - możliwość skontaktowania się z zespołem odpowiedzialnym za aplikację ( na stronie głównej )
-  - na stronie głównej wyświetlają się informacje o ostatniej aktywności w aplikacji - istnieje tu możliwość przejść bezspośrednio do tej czynności (np: ostatnio dodany gracz czy ostatnio zaktualizoany mecz.
+  - na stronie głównej wyświetlają się informacje o ostatniej aktywności w aplikacji - istnieje tu możliwość przejść bezspośrednio do tej czynności (np: ostatnio dodany gracz czy ostatnio zaktualizowany mecz )
   - możliwość wyświetlenia listy ze wszystkimi piłkarzami:
     - wyświetlanie informacji o graczach z podziałem na kolumny ( niektóre kolumny z informacjami można odznaczyć, aby nie wyświetlały się na liście głównej )
     - sortowanie graczy wg różnych kryteriów ( np: wg imienia w kolejności alfabetycznej )
