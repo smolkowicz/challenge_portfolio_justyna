@@ -12,11 +12,12 @@ Moim głównym celem jest... zostanie testerem manualnym 😍, dlatego istotne j
 
 ### ***Subtask 4***
 
-- Aplikacja Futbol Kolektyw Platforma Skautingowa jest przeznaczona dla skautów piłki nożnej, czyli dla osób wyspecjalizowanych w poszukiwaniu osób cechujących się wysokim poziomem zdolności w sporcie - w tym przypadku w piłce nożnej. 
-    
-  Aplikacja umożliwia przeglądanie informacji o zawodnikach np. ze względu na ich umiejętności, pozycję czy osiągnięcia i inne dane, a także służy do gromadzenia informacji o piłkarzach. 
+*1. czym polega i do czgo służy aplikacja?*
+
+Aplikacja Futbol Kolektyw Platforma Skautingowa jest przeznaczona dla skautów piłki nożnej, czyli dla osób wyspecjalizowanych w poszukiwaniu osób cechujących się wysokim poziomem zdolności w sporcie - w tym przypadku w piłce nożnej.  
+Aplikacja umożliwia przeglądanie informacji o zawodnikach np. ze względu na ich umiejętności, pozycję czy osiągnięcia i inne dane, a także służy do gromadzenia informacji o piłkarzach. 
   
-- Funkcjonalności aplikacji:
+*2. Funkcjonalności aplikacji:*
 
   - możliwość zalogowania się do aplikacji i wylogowania się z niej
   - możliwość wysłania e-maila z przypomnieniem hasła ( reset hasła )
@@ -39,3 +40,8 @@ Moim głównym celem jest... zostanie testerem manualnym 😍, dlatego istotne j
     - możliwość wyeksportowania listy z graczami do dokumentu CSV ( tylko wyświetlana strona, nie wszyscy gracze )
     - możliwość wydrukowania listy z graczami ( tylko bieżąca strona - nie cała lista )
     - możliwość filtrowania / wyszukiwania piłkarza wg różnych kryteriów ( np: po wieku czy pozycji w grze )
+
+*3. Ocena interfejsu / wyglądu aplikacji:*
+
+Biorąc pod uwagę interfejs - wygląd aplikacji uważam, że jest on prosty, bardzo podstawowy, ale też estetyczny. Aplikacja nie posiada praktycznie żadnych grafik czy obrazków, prócz loga aplikacji.  
+Moim zdaniem użycie w tak dużej ilości interfejsu tekstowego jest mniej atrakcyjne dla użytkownika, dlatego osobiście wprowadziła bym kilka graficznych wstawek, ponadto dodałabym więcej kształtu ( wszystkie elemnty są kwadratowe lub prostokątne ), niektóre elemety zmieniła bym ze względu na wielkość czcionki i dodała więcej kolorów, aby ekran był bardziej czytelny i przystępny dla użytkownika. 
