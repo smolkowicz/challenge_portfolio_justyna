@@ -45,3 +45,16 @@ Aplikacja umożliwia przeglądanie informacji o zawodnikach np. ze względu na i
 
 Biorąc pod uwagę interfejs - wygląd aplikacji uważam, że jest on prosty, bardzo podstawowy, ale też estetyczny. Aplikacja nie posiada praktycznie żadnych grafik czy obrazków, prócz loga aplikacji.  
 Moim zdaniem użycie w tak dużej ilości interfejsu tekstowego jest mniej atrakcyjne dla użytkownika, dlatego osobiście wprowadziła bym kilka graficznych wstawek, ponadto dodałabym więcej kształtu ( wszystkie elemnty są kwadratowe lub prostokątne ), niektóre elemety zmieniła bym ze względu na wielkość czcionki i dodała więcej kolorów, aby ekran był bardziej czytelny i przystępny dla użytkownika. 
+
+
+*4. Czy aplikacja jest intuicyjna? Czy dostrzegam jakieś błędy?*
+
+Większość funkcjonalności w aplikacji , m.in. dodawanie nowego gracza, dodawanie nowego meczu do gracza, czy edytowanie danych jest intuicyjne. Dostrzegam jednak pewne błędy w aplikacji, mianowicie najpoważniejszym jest brak możliwości usunięcia gracza z listy. Brak tej funkcjonalności może spowodować stratę czasu lub pieniędzy klienta. Ponadto przy dodawaniu nowego piłkarza, bądź meczu, w pola z uzupełnianiem danych można wpisać dowolne znaki, np: w pole "imię", gdzie powinny znaleźć się same litery można wpisać cyfry czy znaki specjalne. W polu, gdzie możemy podać wiek czy wzrost piłkarza - system przyjmuje dowolne wartości, również minusowe i wielocyfrowe. 
+
+Tworzenie raportu szczegółowego zastanawia mnie pod kątem intuicyjności, bowiem dość dużo czasu zajmuje dowiedzenie się w jaki sposób uzupełnić "Dane statystyczne" czyli punkt V w raporcie - konieczne jest przejście do sekcji z meczami i tam kliknąć przycisk "Rozpocznij mecz". W ekranie, gdzie rozgrywany jest mecz znjadują się przyciski poszczególnych akcji - jednak są tylko w formie graficznej, po najechaniu na przycik kursorem nie wyświetla się informacja co dany przycisk oznacza. Po rozegraniu meczu i wysłaniu raportu , użytkownik tak naprawdę nie wie, gdzie te dane zostały przesłane. 
+
+Warto było by się także pochylić nad pewnymi usprawnieniami w aplikacji - np: możliwością zawijania tekstu w kolumnach i/lub ograniczeniem ilości wpisywanych znaków w polach z danymi, a także warto zwrócić uwagę na brak numeracji stron na liście z piłkarzami. Chcący przejść np: do pozycji nr 402, trzeba "przeklikać" kilkanaście razy strzałkę, aby dostać się do tej pozycji, gdyż na jednej stronie wyświetla się 10 pozycji. Można również dodać możliwość wyświetlania większej ilości graczy na jednej stronie, co zmniejszyło by ilość wszystkich stron. 
+
+Dostrzegam problemy z tłumaczeniem strony - aplikacja, która powinna wyświetlać się tylko w języku polskim, w pewnych miejscach pokazuje elementy w języku angielskim. Sytuacja ma miejsce również odwrotnie, aplikacja w języku angielskim w niektórych miejscach wyświetla elementy po polsku. 
+
+Zasymulowałam także wyświetlanie aplikacji na różnych urządzeniach mobilnych - niestety na niektórych z nich, np: Galaxy Fold, Samsung Galaxy A51/71 czy iPhone SE aplikacja nie wyświetla się poprawnie - przyciski bądź treści nachodzą na siebie, co czyni ekran mniej czytelny i użyteczny dla użytkownika. 
