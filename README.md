@@ -63,4 +63,6 @@ Dostrzegam problemy z tłumaczeniem strony - aplikacja, która powinna wyświetl
 
 Zasymulowałam także wyświetlanie aplikacji na różnych urządzeniach mobilnych - niestety na niektórych z nich, np: Galaxy Fold, Samsung Galaxy A51/71 czy iPhone SE aplikacja nie wyświetla się poprawnie - przyciski bądź treści nachodzą na siebie, co czyni ekran mniej czytelny i użyteczny dla użytkownika. 
 
+Po dokonaniu audytu niektórych podstron aplikacji, stwierdzam, iż konieczna jest optymalizacja wydajnośći - wg audytu wydajność plasuje się na średnim poziomie. Poniżej zamieszczam kilka przykładów. 
+
 Uważam, że aplikacja jest odpowiednia dla swoich użytkowników, jednak wymaga jeszcze doprecyzowania pewnych wymagań, wprowadzenia pewnych poprawek i udoskonaleń, aby była bardziej użyteczna i przystępna dla swoich odbiorców. 
