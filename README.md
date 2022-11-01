@@ -65,4 +65,6 @@ Zasymulowałam także wyświetlanie aplikacji na różnych urządzeniach mobilny
 
 Po dokonaniu audytu niektórych podstron aplikacji, stwierdzam, iż konieczna jest optymalizacja wydajnośći - wg audytu wydajność plasuje się na średnim poziomie. Poniżej zamieszczam kilka przykładów. 
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/performance.jpg)
+
 Uważam, że aplikacja jest odpowiednia dla swoich użytkowników, jednak wymaga jeszcze doprecyzowania pewnych wymagań, wprowadzenia pewnych poprawek i udoskonaleń, aby była bardziej użyteczna i przystępna dla swoich odbiorców. 
