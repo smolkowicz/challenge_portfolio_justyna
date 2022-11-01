@@ -68,7 +68,9 @@ Po dokonaniu audytu niektórych podstron aplikacji, stwierdzam, iż konieczna je
 ![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/performance.jpg)
 
 
-
 ![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/performance1.jpg)
+
+
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/performance2.jpg)
 
 Uważam, że aplikacja jest odpowiednia dla swoich użytkowników, jednak wymaga jeszcze doprecyzowania pewnych wymagań, wprowadzenia pewnych poprawek i udoskonaleń, aby była bardziej użyteczna i przystępna dla swoich odbiorców. 
