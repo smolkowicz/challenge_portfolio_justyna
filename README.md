@@ -85,3 +85,12 @@ Uważam, że aplikacja jest odpowiednia dla swoich użytkowników, jednak wymaga
 
 https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/edit
 
+
+## ***Subtask 3***
+
+
+[Who needs test cases?](https://www.youtube.com/watch?v=OO3FANjwKHY&t=1s) 😁
+
+
+
+![WhoNeedsItAskingGIF](https://user-images.githubusercontent.com/115885212/200131665-73437b93-a2b3-4d98-b769-4f1cac461a74.gif)
