@@ -83,7 +83,12 @@ Uważam, że aplikacja jest odpowiednia dla swoich użytkowników, jednak wymaga
 
 ## ***Subtask 1***
 
-https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/edit
+[Test cases](https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/edit)👌
+
+
+## ***Subtask 2***
+
+
 
 
 ## ***Subtask 3***
@@ -94,3 +99,9 @@ https://docs.google.com/document/d/1kLjzC0C1I04cWWiRdDTVTXutFNVjs-JlOK93FaLRECs/
 
 
 ![WhoNeedsItAskingGIF](https://user-images.githubusercontent.com/115885212/200131665-73437b93-a2b3-4d98-b769-4f1cac461a74.gif)
+
+Test case writing is a major activity and considered as one of the most important parts of software testing. It is used by the testing team, development team as well as the management. If there is no documentation for an application, we can use test case as a baseline document.
+
+Test cases clarify what needs to be done to test a system. It gives us the steps which we execute in a system, the input data values which we enter in the system along with the expected results when we execute a particular test case.
+
+Test cases bring together the whole testing process. Good coverage of software test cases gives us confidence during testing that we didn't miss any important functionality. After the tests are completed, we can build our test reports based on the test cases. For newly recruited people, test cases can become a very good source of information. Test cases can also be used in the context of acceptance testing to confirm that the application is working as expected. 👩‍💻👍
