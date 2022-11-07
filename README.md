@@ -89,7 +89,7 @@ Uważam, że aplikacja jest odpowiednia dla swoich użytkowników, jednak wymaga
 ## ***Subtask 2***
 
 
-
+[More Test Cases](https://docs.google.com/document/d/1gUmnglk1dIJzhJGG3wIU-hTlP0L1GY8LYI6oGT6byhs/edit) 🤯🤪
 
 ## ***Subtask 3***
 
