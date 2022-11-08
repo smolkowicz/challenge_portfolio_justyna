@@ -105,3 +105,8 @@ Test case writing is a major activity and considered as one of the most importan
 Test cases clarify what needs to be done to test a system. It gives us the steps which we execute in a system, the input data values which we enter in the system along with the expected results when we execute a particular test case.
 
 Test cases bring together the whole testing process. Good coverage of software test cases gives us confidence during testing that we didn't miss any important functionality. After the tests are completed, we can build our test reports based on the test cases. For newly recruited people, test cases can become a very good source of information. Test cases can also be used in the context of acceptance testing to confirm that the application is working as expected. 👩‍💻👍
+
+
+## ***Subtask 4***
+
+[We are the champions](https://docs.google.com/document/d/1qCHG3Kz0est6oassLm8g_u2Ln6Ugymq7/edit) 😁👌✅
