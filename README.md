@@ -146,3 +146,12 @@ The application is used to meditate, relax, clear the mind, de-stress and improv
 
 The application is suitable for everyone who wants to learn to meditate - clear the mind of unnecessary thoughts, as well as for people who want to relax and improve the quality of sleep. The application contains content and recordings for both adults and children.
 
+3. Is the application user friendly?
+
+
+
+4. How would you improve the application? What would you improve about it? Do you have any idea for additional functionality?
+
+
+
+5. What differences do you see between testing a web application and a native one?
