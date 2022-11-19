@@ -137,3 +137,12 @@ Test cases bring together the whole testing process. Good coverage of software t
 
 
 ## ***Subtask 3***
+
+1. What is the application for? What is the purpose of the application?
+
+The application is used to meditate, relax, clear the mind, de-stress and improve the quality of life. The purpose of the app is to help you delve into your own mind and emotions. The goal is also to help people who feel tired, stressed and have problems with falling asleep and concentrating.
+
+2. Who is the end user of the application?
+
+The application is suitable for everyone who wants to learn to meditate - clear the mind of unnecessary thoughts, as well as for people who want to relax and improve the quality of sleep. The application contains content and recordings for both adults and children.
+
