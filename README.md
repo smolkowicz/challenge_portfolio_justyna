@@ -139,6 +139,8 @@ Test cases bring together the whole testing process. Good coverage of software t
 
 ## ***Subtask 3***
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/focusly.webp)
+
 **1. What is the application for? What is the purpose of the application?**
 
 The application is used to meditate, relax, clear the mind, de-stress and improve the quality of life. The purpose of the app is to help you delve into your own mind and emotions. The goal is also to help people who feel tired, stressed and have problems with falling asleep and concentrating.
