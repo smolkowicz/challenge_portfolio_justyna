@@ -132,7 +132,7 @@ Test cases bring together the whole testing process. Good coverage of software t
 # **TASK 4**
 
 
-## ***Subtask 2***
+## ***Subtask 1&2***
 
 [Bugs report](https://docs.google.com/spreadsheets/d/1Rws2trUtdhZDJAFPvkSnkuAjQrAsGGct-jjOT5U82To/edit#gid=0) 🕷️🦠☠️
 
