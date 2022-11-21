@@ -151,11 +151,10 @@ The application is suitable for everyone who wants to learn to meditate - clear 
 
 In my opinion, the application is user-friendly. The main navigation keys are located at the bottom, which makes it easier to use. Despite the large number of graphics, pictures and colors, the application is clear, all elements are clearly visible. The application has the option of using some of the recordings free of charge, but for the use of most you have to pay a rather high price. Unfortunately, the application is not suitable for all mobile devices, e.g. tablets.
 
-4. How would you improve the application? What would you improve about it? Do you have any idea for additional functionality?
+4. How would you improve the application? Do you have any idea for additional functionality?
 
-
+I would add time functionality to the application - the ability to set the time after which the recording stops. I would also add the ability to set the speed of the recording.
 
 5. What differences do you see between testing a web application and a native one?
 
-The basic difference in testing a native application and a web application is that web applications can run on a platform with any operating system, while a mobile application is dedicated to a specific platform.
-The web application can be used using a web browser, while the mobile application must be downloaded to the device and installed.
+The basic difference in testing a native application and a web application is that web applications can run on a platform with any operating system, while a mobile application is dedicated to a specific platform, which makes testing mobile applications more advanced than web applications. The web application can be used by a web browser, while the mobile application must be downloaded to the device and installed. In addition, mobile applications look different from web applications.
