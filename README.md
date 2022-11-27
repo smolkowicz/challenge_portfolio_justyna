@@ -160,3 +160,13 @@ I would add time functionality to the application - the ability to set the time 
 **5. What differences do you see between testing a web application and a native one?**
 
 The basic difference in testing a native application and a web application is that web applications can run on a platform with any operating system, while a mobile application is dedicated to a specific platform, which makes testing mobile applications more advanced than web applications. The web application can be used by a web browser, while the mobile application must be downloaded to the device and installed. In addition, mobile applications look different from web applications.
+
+
+
+# **TASK 5**  
+
+
+
+## ***Subtask 1***
+
+1. SELECT
