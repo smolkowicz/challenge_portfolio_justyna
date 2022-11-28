@@ -190,3 +190,6 @@ The basic difference in testing a native application and a web application is th
 
 
 ## ***Subtask 3***
+
+1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+
