@@ -209,4 +209,10 @@ SELECT * FROM movies WHERE year_of_production = 2019
 
 SELECT * FROM `movies` WHERE `year_of_production` BETWEEN '1900' AND '1999'
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql3.jpg)
+
+**4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
+
+SELECT `title`, `price` FROM `movies` WHERE `price`< '7$'
+
 ![](
