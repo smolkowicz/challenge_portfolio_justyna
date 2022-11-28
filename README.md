@@ -202,4 +202,11 @@ SELECT * FROM actors ORDER BY SURNAME ASC
 
 SELECT * FROM movies WHERE year_of_production = 2019
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql2.jpg)
+
+
+**3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
+
+SELECT * FROM `movies` WHERE `year_of_production` BETWEEN '1900' AND '1999'
+
 ![](
