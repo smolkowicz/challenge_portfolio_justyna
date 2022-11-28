@@ -237,4 +237,11 @@ SELECT * FROM `customers` WHERE `customer_id` = '2' OR `customer_id` = '4' OR `c
 
 SELECT * FROM `customers` WHERE `customer_id` IN ( 1, 3, 5)
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql7.jpg)
+
+
+**8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
+
+SELECT * FROM `actors` WHERE `name`LIKE 'An%'
+
 ![](
