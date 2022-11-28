@@ -193,3 +193,6 @@ The basic difference in testing a native application and a web application is th
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
+SELECT * FROM actors ORDER BY SURNAME ASC
+
+![]()
