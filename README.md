@@ -230,3 +230,11 @@ SELECT * FROM `actors` WHERE `actor_id` >= '4' AND `actor_id` <= '7'
 
 SELECT * FROM `customers` WHERE `customer_id` = '2' OR `customer_id` = '4' OR `customer_id` = '6'
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql6.jpg)
+
+
+**7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**
+
+SELECT * FROM `customers` WHERE `customer_id` IN ( 1, 3, 5)
+
+![](
