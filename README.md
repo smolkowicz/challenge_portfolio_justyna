@@ -211,14 +211,22 @@ SELECT * FROM `movies` WHERE `year_of_production` BETWEEN '1900' AND '1999'
 
 ![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql3.jpg)
 
+
 **4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
 
 SELECT `title`, `price` FROM `movies` WHERE `price`< '7$'
 
 ![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql4.jpg)
 
+
 **5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
 
 SELECT * FROM `actors` WHERE `actor_id` >= '4' AND `actor_id` <= '7'
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql5.jpg)
+
+
+**6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
+
+SELECT * FROM `customers` WHERE `customer_id` = '2' OR `customer_id` = '4' OR `customer_id` = '6'
+
