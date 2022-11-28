@@ -191,8 +191,15 @@ The basic difference in testing a native application and a web application is th
 
 ## ***Subtask 3***
 
-1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+**1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
 SELECT * FROM actors ORDER BY SURNAME ASC
 
-![]()
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/SQL.jpg)
+
+
+**2. Wyświetl film, który powstał w 2019 roku.**
+
+SELECT * FROM movies WHERE year_of_production = 2019
+
+![](
