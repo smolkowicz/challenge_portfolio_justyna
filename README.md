@@ -244,4 +244,11 @@ SELECT * FROM `customers` WHERE `customer_id` IN ( 1, 3, 5)
 
 SELECT * FROM `actors` WHERE `name`LIKE 'An%'
 
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql8.jpg)
+
+
+**9. Wyświetl dane klienta, który nie ma podanego adresu email.**
+
+SELECT * FROM `customers` WHERE `email` IS NULL
+
 ![](
