@@ -193,14 +193,14 @@ The basic difference in testing a native application and a web application is th
 
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
-SELECT * FROM actors ORDER BY SURNAME ASC
+SELECT * FROM `actors` ORDER BY `surname`ASC
 
 ![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/SQL.jpg)
 
 
 **2. Wyświetl film, który powstał w 2019 roku.**
 
-SELECT * FROM movies WHERE year_of_production = 2019
+SELECT * FROM `movies` WHERE `year_of_production` = '2019'
 
 ![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql2.jpg)
 
@@ -214,5 +214,11 @@ SELECT * FROM `movies` WHERE `year_of_production` BETWEEN '1900' AND '1999'
 **4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.**
 
 SELECT `title`, `price` FROM `movies` WHERE `price`< '7$'
+
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql4.jpg)
+
+**5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
+
+SELECT * FROM `actors` WHERE `actor_id` >= '4' AND `actor_id` <= '7'
 
 ![](
