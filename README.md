@@ -169,4 +169,24 @@ The basic difference in testing a native application and a web application is th
 
 ## ***Subtask 1***
 
-1. SELECT
+
+✅SQL:
+
+- SELECT
+- ORDER BY ( ASC, DESC )
+- LIKE, BETWEEN
+- WHERE
+- AND, OR
+- NULL, NOT
+- IN
+- ALIASES - AS
+- GETDATE
+- UPPER, LOWER
+- DATEDIFF
+- COUNT, SUM, MIN, MAX
+- GROUP BY
+- JOIN
+
+
+
+## ***Subtask 3***
