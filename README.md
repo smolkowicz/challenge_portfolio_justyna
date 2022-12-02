@@ -316,7 +316,7 @@ The basic difference in testing a native application and a web application is th
 
 👉 UPDATE movies SET price = price + 2.5;
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql18.jpg)
 
 
 ✅ **19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
