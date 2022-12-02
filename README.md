@@ -302,10 +302,14 @@ The basic difference in testing a native application and a web application is th
 
 👉 SELECT DISTINCT title FROM sale INNER JOIN movies ON sale.movie_id = movies.movie_id;
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql16.jpg)
+
+
 ✅ **17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**
 
+👉 SELECT name FROM actors UNION SELECT name FROM customers ORDER BY name ASC;
 
+![](
 ✅ **18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**
 
 
