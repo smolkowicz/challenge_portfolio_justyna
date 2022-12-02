@@ -267,6 +267,12 @@ SELECT * FROM `movies` WHERE `price` > 9 AND `movie_id` BETWEEN 2 AND 8
 
 ## ***Subtask 1***
 
-11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
+**11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈**
+
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql11.jpg)
+
+**12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
+
+SELECT * FROM sale JOIN customers ON customers.customer_id WHERE movie_id = 4;
 
 ![](
