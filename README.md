@@ -329,4 +329,4 @@ The basic difference in testing a native application and a web application is th
 
 👉 INSERT INTO customers VALUES (7, 'Honia', ' Stuczka-Kucharska', ' honia@mail.com', 'Hoa');
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql20.jpg)
