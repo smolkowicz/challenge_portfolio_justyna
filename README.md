@@ -269,3 +269,4 @@ SELECT * FROM `movies` WHERE `price` > 9 AND `movie_id` BETWEEN 2 AND 8
 
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
+![](
