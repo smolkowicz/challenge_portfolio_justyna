@@ -326,3 +326,7 @@ The basic difference in testing a native application and a web application is th
 
 
 ✅ **20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
+
+👉 INSERT INTO customers VALUES (7, 'Honia', ' Stuczka-Kucharska', ' honia@mail.com', 'Hoa');
+
+![](
