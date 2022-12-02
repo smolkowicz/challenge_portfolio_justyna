@@ -292,13 +292,17 @@ The basic difference in testing a native application and a web application is th
 
 👉 SELECT sale_date, name, surname, title FROM sale INNER JOIN customers ON sale.customer_id = customers.customer_id INNER JOIN movies ON movies.movie_id = sale.movie_id;
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql14.jpg)
+
+
 ✅ **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag**
 
 
 ✅ **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
 
+👉 SELECT DISTINCT title FROM sale INNER JOIN movies ON sale.movie_id = movies.movie_id;
 
+![](
 ✅ **17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**
 
 
