@@ -299,7 +299,7 @@ The basic difference in testing a native application and a web application is th
 
 👉 ALTER TABLE customers ADD pseudonym char (3) not null;
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/sql15.jpg)
 
 ✅ **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
 
