@@ -309,8 +309,14 @@ The basic difference in testing a native application and a web application is th
 
 👉 SELECT name FROM actors UNION SELECT name FROM customers ORDER BY name ASC;
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/SQL17.jpg)
+
+
 ✅ **18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**
+
+👉 UPDATE movies SET price = price + 2.5;
+
+![](
 
 
 ✅ **19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
