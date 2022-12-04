@@ -326,7 +326,7 @@ The basic difference in testing a native application and a web application is th
 
 👉 SELECT name, surname,title FROM actors INNER JOIN movies WHERE actor_id = 4;
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/SQL19.jpg)
 
 ✅ **20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
 
