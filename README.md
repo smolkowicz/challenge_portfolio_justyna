@@ -338,4 +338,4 @@ The basic difference in testing a native application and a web application is th
 
 ## ***Subtask 2***
 
-![](
+![](https://github.com/smolkowicz/challenge_portfolio_justyna/blob/main/wynik.jpg)
